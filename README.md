@@ -6,10 +6,9 @@ Practical 2 for Mobile Computing and Network Architecture. This project builds o
 
 - The original Practical 1 layout is located at `app/src/main/res/layout/activity_main.xml`.
 - The landscape layout is located at `app/src/main/res/layout-land/activity_main.xml` and rearranges the interface into two columns.
+- The tablet layout is located at `app/src/main/res/layout-sw600dp/activity_main.xml` and uses larger spacing, larger text, and a multi-pane arrangement.
 - The interface is written manually in XML.
 - Responsive dimensions use constraints, `0dp`, `dp`, and `sp` rather than pixel dimensions.
-
-A tablet layout will be added in the next development stage.
 
 ## Build
 
